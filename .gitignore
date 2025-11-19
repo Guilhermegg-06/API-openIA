@@ -1,0 +1,20 @@
+# Ambientes virtuais
+.venv/
+venv/
+
+# Arquivo de variáveis de ambiente (NUNCA subir)
+.env
+
+# Arquivos Python gerados
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Configurações de editor
+.vscode/
+.idea/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
